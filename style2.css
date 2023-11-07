@@ -14,3 +14,41 @@ body {
     text-align: center;
     font-size: 1000px;
 }
+h2 {
+    font-size: 50px;
+
+}
+img {
+    width: 15%;
+    position: relative ;
+    float: left ;
+    left: 75px;
+    bottom: -100px;
+}
+h4 {
+    position: relative;
+    text-align: bottom;
+    bottom: -290px;
+    font-size: 20px;
+    float: left;
+    left: -100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s ease;
+}
+.navigasi:visited{
+    color: black;
+}
+h3 {
+    position: relative;
+    text-align: bottom;
+    bottom: -300px;
+    font-size: 20px;
+    left: -100px;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-size: 80px;
+}
